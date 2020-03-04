@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f17b754-d1a1-464c-a69c-d1cc8d5b2a34" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/androidTest/java/com/example/helloworld/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/androidTest/java/com/example/helloworld/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/java/com/example/helloworld/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/java/com/example/helloworld/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/test/java/com/example/helloworld/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/app/src/test/java/com/example/helloworld/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_1/HelloWorld/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/androidTest/java/com/example/hellotoast/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/androidTest/java/com/example/hellotoast/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/ic_launcher-web.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/ic_launcher-web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/java/com/example/hellotoast/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/java/com/example/hellotoast/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/layout-land/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/layout-land/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/layout-sw600dp/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/layout-sw600dp/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/values/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/test/java/com/example/hellotoast/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/app/src/test/java/com/example/hellotoast/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_2/HelloToast/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/androidTest/java/com/example/scrollingtext/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/androidTest/java/com/example/scrollingtext/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/java/com/example/scrollingtext/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/java/com/example/scrollingtext/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/test/java/com/example/scrollingtext/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/app/src/test/java/com/example/scrollingtext/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs1_3/ScrollingText/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/androidTest/java/com/example/twoactivities/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/androidTest/java/com/example/twoactivities/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/java/com/example/twoactivities/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/java/com/example/twoactivities/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/java/com/example/twoactivities/SecondActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/java/com/example/twoactivities/SecondActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/layout/activity_second.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/test/java/com/example/twoactivities/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/app/src/test/java/com/example/twoactivities/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_1-2/TwoActivities/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/androidTest/java/com/example/implicitintents/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/androidTest/java/com/example/implicitintents/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/java/com/example/implicitintents/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/java/com/example/implicitintents/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/test/java/com/example/implicitintents/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/app/src/test/java/com/example/implicitintents/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntents/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/androidTest/java/com/example/implicitintentsreceiver/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/androidTest/java/com/example/implicitintentsreceiver/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/java/com/example/implicitintentsreceiver/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/java/com/example/implicitintentsreceiver/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/test/java/com/example/implicitintentsreceiver/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/app/src/test/java/com/example/implicitintentsreceiver/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs2_3/ImplicitIntentsReceiver/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/androidTest/java/com/example/powerreceiver/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/androidTest/java/com/example/powerreceiver/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/java/com/example/powerreceiver/CustomReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/java/com/example/powerreceiver/CustomReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/java/com/example/powerreceiver/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/java/com/example/powerreceiver/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/test/java/com/example/powerreceiver/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/app/src/test/java/com/example/powerreceiver/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLabs7_3/PowerReceiver/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/androidTest/java/com/example/notifyme/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/androidTest/java/com/example/notifyme/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/java/com/example/notifyme/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/java/com/example/notifyme/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-anydpi-v24/ic_android.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-anydpi-v24/ic_android.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-anydpi/ic_update.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-anydpi/ic_update.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-hdpi/ic_android.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-hdpi/ic_android.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-hdpi/ic_update.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-hdpi/ic_update.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-mdpi/ic_android.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-mdpi/ic_android.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-mdpi/ic_update.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-mdpi/ic_update.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-mdpi/mascot_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-mdpi/mascot_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-xhdpi/ic_android.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-xhdpi/ic_android.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-xhdpi/ic_update.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-xhdpi/ic_update.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-xxhdpi/ic_android.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-xxhdpi/ic_android.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-xxhdpi/ic_update.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable-xxhdpi/ic_update.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/app/src/test/java/com/example/notifyme/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/app/src/test/java/com/example/notifyme/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotifyMe/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/NotifyMe/settings.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1905" />
+    <option name="width" value="1950" />
+    <option name="height" value="2075" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CodeLabs8_1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="CodeLabs8_1" type="e9137016:NonAndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NotifyMe" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f17b754-d1a1-464c-a69c-d1cc8d5b2a34" name="Default Changelist" comment="" />
+      <created>1583240123081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583240123081</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16431925" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Android Profiler" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
