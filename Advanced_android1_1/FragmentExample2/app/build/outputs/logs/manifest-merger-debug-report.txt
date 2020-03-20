@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:18:1-37:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\8a6b7af9543a8863d3f5fb01bb86a817\appcompat-v7-26.0.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\cfeb4e5e7db3f3d614ac4298e3a1560f\support-v4-26.0.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\316769670170cbfecdc9a5474354ad40\support-fragment-26.0.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\6f0b0916ff5f97d7f64be501e6c16da4\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\5b913916bc9b106ccb7be4c28a36df52\animated-vector-drawable-26.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\7554a9b652b5ef6877cd1f8389f672df\support-vector-drawable-26.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\075e475fb87d6de08d82c8fff33ba8ce\support-core-ui-26.0.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\92e1f3aa3789f371284b35a956013d40\support-core-utils-26.0.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\42034efe0c4d51fb31405c04100be62b\support-media-compat-26.0.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\08a416f88e6fe2f9f8b49975a9c27c2d\support-compat-26.0.1\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:18:1-37:12
+INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:18:1-37:12
+	package
+		ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:19:5-50
+		INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:18:1-37:12
+		INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:21:5-35:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\8a6b7af9543a8863d3f5fb01bb86a817\appcompat-v7-26.0.1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\8a6b7af9543a8863d3f5fb01bb86a817\appcompat-v7-26.0.1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\cfeb4e5e7db3f3d614ac4298e3a1560f\support-v4-26.0.1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\cfeb4e5e7db3f3d614ac4298e3a1560f\support-v4-26.0.1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\316769670170cbfecdc9a5474354ad40\support-fragment-26.0.1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\316769670170cbfecdc9a5474354ad40\support-fragment-26.0.1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\6f0b0916ff5f97d7f64be501e6c16da4\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\6f0b0916ff5f97d7f64be501e6c16da4\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\5b913916bc9b106ccb7be4c28a36df52\animated-vector-drawable-26.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\5b913916bc9b106ccb7be4c28a36df52\animated-vector-drawable-26.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\7554a9b652b5ef6877cd1f8389f672df\support-vector-drawable-26.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\7554a9b652b5ef6877cd1f8389f672df\support-vector-drawable-26.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\075e475fb87d6de08d82c8fff33ba8ce\support-core-ui-26.0.1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\075e475fb87d6de08d82c8fff33ba8ce\support-core-ui-26.0.1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\92e1f3aa3789f371284b35a956013d40\support-core-utils-26.0.1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\92e1f3aa3789f371284b35a956013d40\support-core-utils-26.0.1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\42034efe0c4d51fb31405c04100be62b\support-media-compat-26.0.1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\42034efe0c4d51fb31405c04100be62b\support-media-compat-26.0.1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\08a416f88e6fe2f9f8b49975a9c27c2d\support-compat-26.0.1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\08a416f88e6fe2f9f8b49975a9c27c2d\support-compat-26.0.1\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.fragmentexample.MainActivity
+ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\8a6b7af9543a8863d3f5fb01bb86a817\appcompat-v7-26.0.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\8a6b7af9543a8863d3f5fb01bb86a817\appcompat-v7-26.0.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\cfeb4e5e7db3f3d614ac4298e3a1560f\support-v4-26.0.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\cfeb4e5e7db3f3d614ac4298e3a1560f\support-v4-26.0.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\316769670170cbfecdc9a5474354ad40\support-fragment-26.0.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\316769670170cbfecdc9a5474354ad40\support-fragment-26.0.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\6f0b0916ff5f97d7f64be501e6c16da4\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\6f0b0916ff5f97d7f64be501e6c16da4\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\5b913916bc9b106ccb7be4c28a36df52\animated-vector-drawable-26.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\5b913916bc9b106ccb7be4c28a36df52\animated-vector-drawable-26.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\7554a9b652b5ef6877cd1f8389f672df\support-vector-drawable-26.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\7554a9b652b5ef6877cd1f8389f672df\support-vector-drawable-26.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\075e475fb87d6de08d82c8fff33ba8ce\support-core-ui-26.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\075e475fb87d6de08d82c8fff33ba8ce\support-core-ui-26.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\92e1f3aa3789f371284b35a956013d40\support-core-utils-26.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\92e1f3aa3789f371284b35a956013d40\support-core-utils-26.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\42034efe0c4d51fb31405c04100be62b\support-media-compat-26.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\42034efe0c4d51fb31405c04100be62b\support-media-compat-26.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\08a416f88e6fe2f9f8b49975a9c27c2d\support-compat-26.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\08a416f88e6fe2f9f8b49975a9c27c2d\support-compat-26.0.1\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\8a6b7af9543a8863d3f5fb01bb86a817\appcompat-v7-26.0.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\raine\git\mobile_dev\CodeLabs\Advanced_android1_1\FragmentExample2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\8a6b7af9543a8863d3f5fb01bb86a817\appcompat-v7-26.0.1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\cfeb4e5e7db3f3d614ac4298e3a1560f\support-v4-26.0.1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\cfeb4e5e7db3f3d614ac4298e3a1560f\support-v4-26.0.1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\316769670170cbfecdc9a5474354ad40\support-fragment-26.0.1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\316769670170cbfecdc9a5474354ad40\support-fragment-26.0.1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\5b913916bc9b106ccb7be4c28a36df52\animated-vector-drawable-26.0.1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\5b913916bc9b106ccb7be4c28a36df52\animated-vector-drawable-26.0.1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\7554a9b652b5ef6877cd1f8389f672df\support-vector-drawable-26.0.1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\7554a9b652b5ef6877cd1f8389f672df\support-vector-drawable-26.0.1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\075e475fb87d6de08d82c8fff33ba8ce\support-core-ui-26.0.1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\075e475fb87d6de08d82c8fff33ba8ce\support-core-ui-26.0.1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\92e1f3aa3789f371284b35a956013d40\support-core-utils-26.0.1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\92e1f3aa3789f371284b35a956013d40\support-core-utils-26.0.1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\42034efe0c4d51fb31405c04100be62b\support-media-compat-26.0.1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\42034efe0c4d51fb31405c04100be62b\support-media-compat-26.0.1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\08a416f88e6fe2f9f8b49975a9c27c2d\support-compat-26.0.1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\08a416f88e6fe2f9f8b49975a9c27c2d\support-compat-26.0.1\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\8a6b7af9543a8863d3f5fb01bb86a817\appcompat-v7-26.0.1\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.1] C:\Users\raine\.gradle\caches\transforms-2\files-2.1\8a6b7af9543a8863d3f5fb01bb86a817\appcompat-v7-26.0.1\AndroidManifest.xml:27:13-51

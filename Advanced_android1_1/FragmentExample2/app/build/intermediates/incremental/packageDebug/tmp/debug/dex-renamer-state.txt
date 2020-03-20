@@ -1,0 +1,4 @@
+#Fri Mar 20 13:01:21 CET 2020
+base.0=C\:\\Users\\raine\\git\\mobile_dev\\CodeLabs\\Advanced_android1_1\\FragmentExample2\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
